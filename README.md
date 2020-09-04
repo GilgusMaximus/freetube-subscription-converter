@@ -7,7 +7,7 @@ If you already have subscription in the rewrite of FreeTube, make a backup of th
 I do not take responsibility if an error occurs and your subscriptions are lost. 
 
 # Usage
-./ft-sub-converter-'platform -op './path/to/old/file/subscriptions.db' -np './path/to/new/file/profiles.db' (-t)
+`./ft-sub-converter-'platform -op './path/to/old/file/subscriptions.db' -np './path/to/new/file/profiles.db' -t`
 
 `-op './path/to/old/file/subscriptions.db' -np './path/to/new/file/profiles.db'`
 
