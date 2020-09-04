@@ -1,7 +1,7 @@
 # Freetube-Subscription-Converter
 This program is a CLI that takes your old subscription database file and converts it into the subscription database format.
 
-#Notice before usage
+# Notice before usage
 
 If you already have subscription in the rewrite of FreeTube, make a backup of the profiles.db file.
 I do not take responsibility if an error occurs and your subscriptions are lost. 
