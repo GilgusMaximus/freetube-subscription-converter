@@ -3,7 +3,7 @@ This program is a CLI that takes your old subscription database file and convert
 
 # Notice before usage
 
-If you already have subscription in the rewrite of FreeTube, make a backup of the profiles.db file.
+If you already have subscriptions in the rewrite of FreeTube, make a backup of the profiles.db file.
 I do not take responsibility if an error occurs and your subscriptions are lost. 
 
 # Usage
