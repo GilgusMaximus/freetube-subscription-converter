@@ -7,7 +7,7 @@ If you already have subscriptions in the rewrite of FreeTube, make a backup of t
 I do not take responsibility if an error occurs and your subscriptions are lost. 
 
 # Usage
-`./ft-sub-converter-win.exe './path/to/old/file/subscriptions.db' -np './path/to/new/file/profiles.db' -t`
+`./ft-sub-converter-win.exe -op './path/to/old/file/subscriptions.db' -np './path/to/new/file/profiles.db' -t`
  
 The first two arguments `-op` and `-np` point towards the two files, and **must** be in this order.
 
